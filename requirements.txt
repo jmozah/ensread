@@ -1,0 +1,5 @@
+requests==2.18.4
+web3==3.16.4
+pylru===1.0.9
+progressbar===2.5
+
